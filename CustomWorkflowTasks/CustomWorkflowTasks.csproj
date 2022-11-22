@@ -103,6 +103,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChangeOwnerOfAccountRelatedContacts.cs" />
     <Compile Include="DeactivateAccountRelatedContacts.cs" />
     <Compile Include="UpdateCourseEndDate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
